@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ryvhen
 - 👀 I’m interested in games and programming
-- 🌱 I’m currently learning C, CSS and HTML
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on community one day
 - 📫 text me here
 <!---
